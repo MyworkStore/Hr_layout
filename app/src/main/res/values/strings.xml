@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ความชำนาญ</string>
+
+
+    <string-array name="header_titles">
+        <item>การจัดการศึกษาทางพยาบาลศาสตร์</item>
+        <item>การจัดการเรียนการสอนทางคลินิค</item>>
+    </string-array>
+
+    <string-array name="h1_items">
+        <item>การจัดการศึกษาทางพยาบาลศาสตร์</item>
+    </string-array>
+
+    <string-array name="h2_items">
+        <item>การจัดการเรียนการสอนทางคลินิค</item>
+    </string-array>
+
+</resources>
